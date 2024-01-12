@@ -1,0 +1,65 @@
+[
+  {
+    "_id": 1,
+    "name": "Anti Age Face Treatment",
+    "image": "https://i.ibb.co/m8vSshd/service-Img-1.png",
+    "price": 199,
+    "details": "We craft stunning and amazing web UI, using a well drrafted UX to fit your product."
+  },
+  {
+    "_id": 2,
+    "name": "Hair Color & Styleing",
+    "image": "https://i.ibb.co/K0Srv35/service-Img-2.png",
+    "price": 99,
+    "details": "Amazing flyers, social media posts and brand representations that would make your brand stand out."
+  },
+  {
+    "_id": 3,
+    "name": "Skin Care Treatment",
+    "image": "https://i.ibb.co/mtPdsHM/service-Img-3.png",
+    "price": 299,
+    "details": "With well written codes, we build amazing apps for all platforms, mobile and web apps in general."
+  },
+  {
+    "_id": 4,
+    "name": "Anti Age Face Treatment",
+    "image": "https://i.ibb.co/m8vSshd/service-Img-1.png",
+    "price": 199,
+    "details": "We craft stunning and amazing web UI, using a well drrafted UX to fit your product."
+  },
+  {
+    "_id": 5,
+    "name": "Hair Color & Styleing",
+    "image": "https://i.ibb.co/K0Srv35/service-Img-2.png",
+    "price": 99,
+    "details": "Amazing flyers, social media posts and brand representations that would make your brand stand out."
+  },
+  {
+    "_id": 6,
+    "name": "Skin Care Treatment",
+    "image": "https://i.ibb.co/mtPdsHM/service-Img-3.png",
+    "price": 299,
+    "details": "With well written codes, we build amazing apps for all platforms, mobile and web apps in general."
+  },
+  {
+    "_id": 7,
+    "name": "Anti Age Face Treatment",
+    "image": "https://i.ibb.co/m8vSshd/service-Img-1.png",
+    "price": 199,
+    "details": "We craft stunning and amazing web UI, using a well drrafted UX to fit your product."
+  },
+  {
+    "_id": 8,
+    "name": "Hair Color & Styleing",
+    "image": "https://i.ibb.co/K0Srv35/service-Img-2.png",
+    "price": 99,
+    "details": "Amazing flyers, social media posts and brand representations that would make your brand stand out."
+  },
+  {
+    "_id": 9,
+    "name": "Skin Care Treatment",
+    "image": "https://i.ibb.co/mtPdsHM/service-Img-3.png",
+    "price": 299,
+    "details": "With well written codes, we build amazing apps for all platforms, mobile and web apps in general."
+  }
+]
