@@ -57,7 +57,7 @@ const Navbar = () => {
   // className={stickyNav ? "activeNav" : ""}
   return (
     <div>
-      <div className="navbar fixed z-10 top-0 opacity-80  lg:px-28  bg-pink-100">
+      <div className="navbar fixed z-10 top-0 opacity-80 max-w-screen-xl  lg:px-28  bg-pink-100">
         <div className="navbar-start">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">

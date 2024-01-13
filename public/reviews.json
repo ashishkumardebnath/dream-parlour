@@ -1,6 +1,5 @@
 [
   {
-    "_id": "643010e0f460ge52ce1e8fa65",
     "name": "Chrisburr",
     "country": "Canada",
     "image": "https://i.ibb.co/PxPKd6R/Ellipse-91.png",
@@ -8,7 +7,6 @@
     "rating": 5
   },
   {
-    "_id": "64301123f3dgtryii5ce1e8fa68",
     "name": "Chantelhynes",
     "country": "France",
     "image": "https://i.ibb.co/2S9876q/boy-removebg-preview-modified.png",
@@ -17,7 +15,6 @@
   },
 
   {
-    "_id": "643010e0fddy43e52ce1e8fa65",
     "name": "Nizam Uddin",
     "country": "Bangladesh",
     "image": "https://i.ibb.co/KVfnyG7/FB-IMG-1684939690944-modified.png",
@@ -25,7 +22,6 @@
     "rating": 4
   },
   {
-    "_id": "6430110af5a76kgh54ce1e8fa67",
     "name": "Bitclick",
     "country": "Jamaica",
     "image": "https://i.ibb.co/jMbhhC7/Ellipse-92.png",
@@ -33,7 +29,6 @@
     "rating": 3
   },
   {
-    "_id": "6430113af5a3fg66e1e8fa69",
     "name": "Karina Nobin",
     "country": "United States",
     "image": "https://i.ibb.co/ZxPRs5Q/girl-removebg-preview-modified.png",
@@ -41,7 +36,6 @@
     "rating": 3
   },
   {
-    "_id": "6430113af53g45645ffg45e8fa69",
     "name": "Nahid Hasan",
     "country": "Bangladesh",
     "image": "https://i.ibb.co/hYBcc45/Whats-App-Image-2023-11-21-at-14-51-06-308022f8-modified.png",

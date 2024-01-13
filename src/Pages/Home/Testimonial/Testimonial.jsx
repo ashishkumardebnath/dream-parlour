@@ -18,7 +18,7 @@ const Testimonial = () => {
   const [reviews, setReviews] = useState([]);
 
   useEffect(() => {
-    fetch("reviews.json")
+    fetch("http://localhost:5000/reviews")
       .then((res) => res.json())
       .then((data) => setReviews(data));
   }, []);
@@ -51,8 +51,12 @@ const Testimonial = () => {
             <SwiperSlide key={review._id}>
               <div className="bg-pink-50 shadow-xl p-8 rounded-lg">
                 <div className="flex ">
-                  <div className="w-20 h-20 rounded-full border-[#F63E7B] border-2">
-                    <img src={review.image} alt="" />
+                  <div className="w-20 h-20  ">
+                    <img
+                      className="rounded-full border-[#F63E7B] border-2"
+                      src={review.image}
+                      alt=""
+                    />
                   </div>
                   <div className="flex justify-center items-center">
                     <div className="text-start ml-3">

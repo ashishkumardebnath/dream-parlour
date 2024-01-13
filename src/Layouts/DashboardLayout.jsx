@@ -73,7 +73,7 @@ const DashboardLayout = () => {
                 <li>
                   <Link
                     className="text-lg flex items-center gap-2 focus:text-[#F63E7B] hover:text-[#F63E7B] mb-2 font-semibold"
-                    to="review"
+                    to="makeadmin"
                   >
                     <MdOutlineRateReview /> Make Admin
                   </Link>
